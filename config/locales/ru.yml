@@ -1,0 +1,6 @@
+ru:
+  views:
+    pagination:
+      next: "Дальше"
+  spree:
+    shop_by_taxonomy: ! '%{taxonomy}'
